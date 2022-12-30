@@ -1,0 +1,5 @@
+export const processFireBaseErrors = (msg)=>{
+    switch(msg){
+        case "Error (auth/email-already-in-use).":
+    }
+}
